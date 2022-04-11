@@ -1,6 +1,6 @@
 package javacrash;
 
-public class Variables {
+public class DataTypes {
     public void output() {
         String name = "John";
         int age = 28; // 10 digits; more-> long; less-> short(6 digits)
