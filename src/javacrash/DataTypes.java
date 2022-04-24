@@ -22,5 +22,8 @@ public class DataTypes {
             Non-primitive types:
                  Strings, Arrays, Classes, Interface
          */
+
+        String[] cars = {"Volvo", "Mazda"};
+        int[] marks = {40, 100, 30};
     }
 }
